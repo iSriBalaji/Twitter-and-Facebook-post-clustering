@@ -1,0 +1,35 @@
+Cluster 0
+family,free,computer,work,malware,video,facebook,need,time,police,html,data,know,attack,day,use,new,like,security,cyber
+
+Cluster 1
+operationsmileviwe,easy,life,right,police,reminder,way,keyboard,let,respect,wife,dcp,tough,new,till,sure,child,time,feel,make
+
+Cluster 2
+citizenpolice,isolated,feel,place,appeal,mobile,covid19,signal,situation,distress,dear,hawkeye,empower,hawkeyemobileapp,emergency,police,service,100,citizen,dial100
+
+Cluster 3
+chrome,safe,know,io,new,10,happy,search,device,malware,apps,phone,million,responsibly,diwali2019celebrate,happydiwali,version,user,google,android
+
+Cluster 4
+blackhatevents,magazine,thrill,free,defense,infosec,story,important,cyberdefensemagazine,recommends,hope,exclusive,share,cybersecurity,cyber,security,cdm,cyberdefensemag,publisher,miliefsky
+
+Cluster 5
+game,date,vacation,apply,think,fraud,school,post,survey,feel,inauguration,teen,course,safe,parent,kid,cyber,child,safety,online
+
+Cluster 6
+late,new,account,steal,cybersecurity,ethical,com,target,zdnet,hackread,flaw,vulnerability,data,attack,cyber,security,news,hacker,cdttweets,hack
+
+Cluster 7
+family,prevent,cyberbullying,use,screen,learn,digital,smile,prevention,bully,school,operation,child,vi,time,help,stopbullying,parent,kid,bullying
+
+Cluster 8
+trend,malware,advanced,email,q4,kit,offering,paypal,coronavirus,increase,expands,16shop,criminal,fear,protect,organization,customize,scam,attack,phishing
+
+Cluster 9
+age,intelligence,19,season,eu,theft,identity,log,counter,trustee,exchange,covid,artificial,new,allure,profile,mutation,university,ecrime,apwg
+
+Cluster 10
+force,programme,sexual,sheteams,labour,3600,strong,marriage,rescue,police,month,turn,silence,break,conduct,let,traffic,abuse,stop,child
+
+Cluster 11
+safe,create,rachakonda,international,training,induction,travel,college,club,celebration,girl,awareness,state,police,team,sheteams,wing,telangana,safety,woman

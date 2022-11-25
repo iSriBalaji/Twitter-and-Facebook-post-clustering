@@ -1,0 +1,49 @@
+Clustering the Counter Vectorized data
+-- Best Cluster number -  15
+-----------------------Fit complete---------------------------
+Plotting Top words in the clusters -  15
+
+Cluster 0
+salutetopolicemartyrs,respect,happy,want,love,provide,coronavirus,society,walk,time,world,dial100,people,safe,make,video,day,feel,police,like
+
+Cluster 1
+facebook,let,russian,exploit,security,vulnerability,attack,use,new,malware,user,million,data,steal,target,flaw,hack,news,cdttweets,hacker
+
+Cluster 2
+rescue,young,let,use,help,stop,need,screen,safe,new,time,family,abuse,school,picture,digital,online,kid,parent,child
+
+Cluster 3
+new,free,defense,infosec,story,important,cyberdefensemagazine,recommends,hope,award,university,exclusive,share,security,cybersecurity,cyber,cdm,cyberdefensemag,publisher,miliefsky
+
+Cluster 4
+work,user,android,100,google,cybersecurity,malware,html,facebook,phishing,use,data,know,time,new,online,attack,cdttweets,security,cyber
+
+Cluster 5
+test,workplace,penetration,chemical,cp,rachakondacop,bhagwat,wsw,payload,reddy,dgp,security,hack,telangana,sign,mahesh,mou,conference,ip,tool
+
+Cluster 6
+womensafety,place,appeal,support,community,stalk,cyber,violence,course,school,online,kid,bully,help,prevent,stop,learn,prevention,stopbullying,bullying
+
+Cluster 7
+cyber,security,sheteams,age,intelligence,19,ecrime,log,counter,exchange,covid,artificial,allure,profile,identity,mutation,cybercrime,theft,apwg,crime
+
+Cluster 8
+state,commerce,safetyclub,badruka,hawkeye,feedback,citizen,police,use,scam,company,site,emergency,warns,fbi,spoofed,applicant,dial100,job,service
+
+Cluster 9
+endowment,endpoint,endpointsread,endrevengeporn,endure,encryption,encrypt,work,prevent,use,malware,coronavirus,increase,criminal,fear,protect,organization,customize,attack,phishing
+
+Cluster 10
+endrevengeporn,endpointsread,endpoint,endowment,end,endorse,zyxel,endless,ending,endeavor,endanger,security,new,social,phishing,scam,want,email,number,paypal
+
+Cluster 11
+program,induction,rachakonda,travel,child,programme,club,celebration,college,conduct,girl,state,police,team,sheteams,telangana,awareness,wing,safety,woman
+
+Cluster 12
+updateit,linux,critical,new,hawkeyemobileapp,cdttweets,fix,tuesday,io,late,release,vulnerability,android,microsoft,security,10,version,patch,window,update
+
+Cluster 13
+guy,master,web,read,insta,scratch,group,test,penetration,course,cyber,instagram,study,account,security,late,ethical,news,cdttweets,hack
+
+Cluster 14
+distress,violation,facilitate,operationsmile,citizenpolice,dgp,meeting,telangana,hawkeye,signal,convergence,start,bigboss,observe,citizen,family,police,operation,smile,vi

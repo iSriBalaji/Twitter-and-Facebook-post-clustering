@@ -1,0 +1,42 @@
+
+Clustering the Counter Vectorized data
+-- Best Cluster number -  12
+-----------------------Fit complete---------------------------
+Plotting Top words in the clusters -  12
+
+Cluster 0
+covid19,coronaviruspandemicprotect,nation,respect,nri,safe,video,dgp,officer,telangana,convergence,feel,meeting,society,operation,smile,vi,day,like,police
+
+Cluster 1
+breach,million,cybersecurity,late,flaw,account,steal,ethical,target,com,zdnet,hackread,data,attack,cyber,security,news,hacker,cdttweets,hack
+
+Cluster 2
+let,safety,stop,help,make,use,need,safe,new,abuse,family,screen,picture,school,digital,time,online,kid,parent,child
+
+Cluster 3
+new,free,defense,infosec,story,important,cyberdefensemagazine,recommends,hope,award,university,exclusive,share,security,cybersecurity,cyber,cdm,cyberdefensemag,publisher,miliefsky
+
+Cluster 4
+phone,10,google,user,computer,malware,make,android,time,html,facebook,phishing,attack,data,use,know,online,new,cyber,security
+
+Cluster 5
+dgp,use,day,malware,window,telangana,sign,new,mahesh,zero,hacker,mou,conference,hack,security,release,vulnerability,ip,exploit,tool
+
+Cluster 6
+make,start,cause,date,stalk,think,cyber,violence,course,online,school,kid,help,bully,stop,prevent,prevention,learn,stopbullying,bullying
+
+Cluster 7
+cyber,security,sheteams,age,intelligence,19,ecrime,log,counter,exchange,covid,artificial,identity,allure,profile,mutation,cybercrime,theft,apwg,crime
+
+Cluster 8
+scam,company,site,mobile,job,signal,warns,situation,fbi,distress,spoofed,applicant,hawkeye,police,hawkeyemobileapp,empower,emergency,service,citizen,dial100
+
+Cluster 9
+endowment,endpoint,endpointsread,endrevengeporn,endure,encryption,encrypt,work,prevent,use,malware,coronavirus,increase,criminal,fear,protect,organization,customize,attack,phishing
+
+Cluster 10
+endpoint,endowment,endless,ending,zyxel,endeavor,endanger,endace,end,giveaway,like,security,new,social,phishing,scam,email,number,paypal,want
+
+Cluster 11
+program,induction,rachakonda,travel,child,programme,club,celebration,college,conduct,girl,state,police,team,sheteams,telangana,awareness,wing,safety,woman
+None
